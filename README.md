@@ -1,7 +1,23 @@
 # Olá! meu nome é Neto 👋
 
-**Iniciante:**
- Estou iniciando os estudos para me tornar um programador.
+Sou um entusiasta da programação em início de jornada. Atualmente, estou explorando o mundo da tecnologia com foco em Python e JavaScript, além de ter uma boa base em HTML e CSS.
+
+**🔍 O que estou aprendendo:**
+
+Python: Manipulação de dados, automação, e desenvolvimento web.
+JavaScript: Desenvolvimento web interativo e dinâmico.
+HTML/CSS: Criação de páginas web responsivas e bem estruturadas.
+
+**💡 Projetos em andamento:**
+
+
+Desenvolvendo minhas habilidades com projetos pessoais e colaborativos.
+Explorando frameworks e bibliotecas para aprimorar meu conhecimento.
+
+**📚 Objetivos:**
+
+Melhorar minhas habilidades de codificação e entender melhores práticas.
+Contribuir para projetos open source e aprender com a comunidade.
 
  ![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoPython&show_icons=true&theme=radical)
 
